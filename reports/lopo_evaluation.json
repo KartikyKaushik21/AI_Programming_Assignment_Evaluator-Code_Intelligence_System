@@ -1,0 +1,10 @@
+{
+  "total_test_submissions": 8556,
+  "number_of_problems": 10,
+  "error_category_accuracy": 0.7705703599812996,
+  "error_category_macro_f1": 0.7691889839572914,
+  "pass_fail_accuracy": 0.8382421692379617,
+  "pass_fail_f1": 0.8197916666666667,
+  "average_problem_error_accuracy": 0.7704414579276493,
+  "average_problem_pass_fail_accuracy": 0.8380009865024813
+}

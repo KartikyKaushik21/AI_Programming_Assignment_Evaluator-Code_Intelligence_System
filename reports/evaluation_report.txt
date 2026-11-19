@@ -1,0 +1,21 @@
+=== Pass/Fail Classification Report ===
+              precision    recall  f1-score   support
+
+           0       1.00      0.61      0.76      5035
+           1       0.72      1.00      0.84      4965
+
+    accuracy                           0.81     10000
+   macro avg       0.86      0.81      0.80     10000
+weighted avg       0.86      0.81      0.80     10000
+
+=== Error Category Classification Report ===
+               precision    recall  f1-score   support
+
+         None       0.72      1.00      0.84      4965
+Runtime Error       1.00      1.00      1.00      1576
+ Syntax Error       1.00      1.00      1.00      1514
+ Wrong Answer       0.00      0.00      0.00      1945
+
+     accuracy                           0.81     10000
+    macro avg       0.68      0.75      0.71     10000
+ weighted avg       0.67      0.81      0.72     10000

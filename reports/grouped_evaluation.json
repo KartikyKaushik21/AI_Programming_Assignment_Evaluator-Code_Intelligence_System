@@ -1,0 +1,24 @@
+{
+  "held_out_problem_ids": [
+    "q10",
+    "q8"
+  ],
+  "training_problem_ids": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q9"
+  ],
+  "error_category_accuracy": 0.9348458406050029,
+  "pass_fail_accuracy": 0.9348458406050029,
+  "categories": [
+    "No Error",
+    "Wrong Answer",
+    "Runtime Error"
+  ],
+  "syntax_errors_handled_separately": true
+}

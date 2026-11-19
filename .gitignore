@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Temporary project files
+audit_files.txt
+tempCodeRunnerFile.py
+image.py
+
+# Local database
+data/history.db
+history.db
+*.db
+
+# Old model
+models/pass_fail_model.joblib

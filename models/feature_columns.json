@@ -1,0 +1,19 @@
+[
+  "loc",
+  "num_functions",
+  "num_loops",
+  "num_ifs",
+  "num_imports",
+  "num_returns",
+  "num_calls",
+  "num_raise",
+  "num_try",
+  "num_assignments",
+  "num_comparisons",
+  "num_boolean_ops",
+  "num_subscripts",
+  "num_constants",
+  "num_classes",
+  "cyclomatic_complexity",
+  "is_recursive"
+]
