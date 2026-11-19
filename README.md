@@ -193,7 +193,7 @@ Some dataset and evaluation files are generated when the corresponding scripts a
 ### Step 1: Clone the Repository
 
 ```powershell
-git clone https://github.com/KartikyKaushik21/AI-Programming-Assignment-Evaluation.git
+git clone https://github.com/KartikyKaushik21/AI_Programming_Assignment_Evaluator-Code_Intelligence_System.git
 ```
 
 Navigate into the project directory:
